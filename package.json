@@ -1,0 +1,20 @@
+{
+  "name": "lornhp13",
+  "version": "1.0.0", 
+  "description": "Create a lightweight client for consuming REST APIs in Node.js applications, with support for authentication, request retries, and error handling.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/henryhupper123/lornhp13.git"
+  },
+  "keywords": [
+    "", 
+    "",
+    ""
+  ],
+  "author": "",
+  "license": "MIT"
+}
